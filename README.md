@@ -26,7 +26,7 @@ Di Termux, jalankan:
 curl -fsSL https://raw.githubusercontent.com/lptech22/wps-switch/main/install.sh | bash
 ```
 
-Instalasi meminta **kunci lisensi** (format `WPS-XXXX-XXXX-XXXX`). Satu lisensi berlaku untuk satu perangkat. Belum punya? Hubungi admin atau lewat link berikut https://lynk.id/lptech
+Instalasi meminta **kunci lisensi** (format `WPS-XXXX-XXXX-XXXX`). Satu lisensi berlaku untuk satu perangkat dan berlaku selamanya. Belum punya? Hubungi admin atau lewat link berikut https://lynk.id/lptech
 
 Setelah terpasang, buka menunya dengan:
 
